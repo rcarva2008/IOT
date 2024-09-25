@@ -15,7 +15,7 @@ distância toda vez que alguém se aproxime a menos de 1 metro do sensor.
 
 ## Montagem do Circuito
 
-![Imagem de Circuito](TELALCD.PNG).
+![Imagem de Circuito](telalcd.PNG).
 
 ## Explicação do Código
 
