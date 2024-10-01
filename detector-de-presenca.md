@@ -11,7 +11,7 @@ Este projeto utiliza [componente principal] conectado ao [dispositivo controlado
 
 # Montagem do Circuito
 
-![Imagem do Circuito](detector-ded-presenca.png)
+![Imagem do Circuito](detector-de-presenca.png)
 
 ## Explicação do Código
 
