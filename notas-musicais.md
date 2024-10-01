@@ -16,7 +16,7 @@ Jumpers Macho-Macho
 
 # Montagem do Circuito
 
-![Imagem do Circuito](notas.musicais.png)
+![Imagem do Circuito](notas-musicais.png)
 
 # Explicação do Código
 
