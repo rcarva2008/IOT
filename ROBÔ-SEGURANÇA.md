@@ -72,15 +72,15 @@ void loop() {
     // Acender o LED
     digitalWrite(ledPin, HIGH);
     
-    // Girar o servo para desviar
+  // Girar o servo para desviar
     myServo.write(180); // ajustar o ângulo conforme necessário
     delay(1000); // espera para o servo mover
     
-    // Voltar o servo para a posição original
+   // Voltar o servo para a posição original
     myServo.write(90); // posição inicial
     delay(1000); // espera para o servo voltar
     
-    // Desligar o LED
+  // Desligar o LED
     digitalWrite(ledPin, LOW);
   } else {
     // Desligar o LED se não houver obstáculos
