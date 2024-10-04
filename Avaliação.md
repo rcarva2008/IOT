@@ -6,7 +6,7 @@ criação de um protótipo que simula um sistema de semáforo inteligente. O sis
 sinais de trânsito para veículos e pedestres, utilizando um sensor de distância para detectar
 a presença de pedestres.
 
-# Componentes Usados
+## Componentes Usados
 
 
 1 Arduino Uno
@@ -18,11 +18,11 @@ a presença de pedestres.
 3 Jumpers Macho-Fêmea
 
 
-# Montagem do Circuito
+## Montagem do Circuito
 
 ![Imagem do Circuito](Avaliação.png)
 
-# Explicação do Código
+## Explicação do Código
 
 
 
