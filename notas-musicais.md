@@ -48,7 +48,7 @@ void loop() {
 buzzer: Pino conectado ao buzzer para emitir sons.
 doo, re, mi, fa: Frequências correspondentes às notas musicais.
 
-##Funções Principais
+## Funções Principais
 
 setup(): Configura o pino do buzzer como uma saída, permitindo que ele emita sons.
 loop(): Toca cada nota musical em sequência, aguardando um intervalo de tempo específico entre cada nota e, ao final, desliga o som por um tempo antes de reiniciar a sequência.
