@@ -4,7 +4,7 @@ Este projeto utiliza um Arduino Uno conectado a um Sensor Ultrassônico, um LED 
 O sistema mede a distância até um objeto usando o sensor ultrassônico e, se a distância for menor que um limite definido, acende o LED e move o servo motor.
 A implementação inclui a montagem dos componentes em uma protoboard e pode ser expandida para incluir outros sensores ou atuadores.
 
-# Componentes Usados
+## Componentes Usados
 
 Arduino Uno – Microcontrolador utilizado para controlar o sistema.
 Sensor Ultrassônico (HC-SR04) – Utilizado para medir a distância até um objeto.
@@ -13,11 +13,11 @@ Servo Motor – Movimenta-se quando um objeto é detectado dentro do limite de d
 Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
 Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.
 
-# Montagem do Circuito
+## Montagem do Circuito
 
 ![Imagem do Circuito](ROBÔ-SEGURANÇA.png)
 
-# Explicação do Código
+## Explicação do Código
 
 #include <Servo.h>
 
@@ -90,7 +90,7 @@ void loop() {
   delay(100); // aguardar um pouco antes da próxima medição
 }
 
-# Definição das Variáveis
+## Definição das Variáveis
 
 trigPin: Pino conectado ao pino de trigger do sensor ultrassônico.
 echoPin: Pino conectado ao pino de echo do sensor ultrassônico.
@@ -100,6 +100,6 @@ distanceThreshold: Distância mínima para detecção (em cm).
 duration: Tempo de duração do pulso ultrassônico.
 distance: Distância calculada com base no tempo do pulso.
 
-# Funções Principais
+## Funções Principais
 setup(): Configura os pinos do sensor ultrassônico, LED e servo motor como saída e entrada, respectivamente.
 loop(): Envia um pulso ultrassônico, calcula a distância até um objeto e, se a distância for menor que o limite, acende o LED e move o servo motor. Caso contrário, o LED permanece apagado.
