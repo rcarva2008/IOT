@@ -4,7 +4,7 @@ Este projeto utiliza um Arduino Uno conectado a um Sensor PIR, um Buzzer Piezoel
 O sistema detecta movimento através do sensor PIR, emite um som pelo buzzer e movimenta o servo motor, permitindo a sinalização sonora e visual quando há movimento. A implementação inclui a
 montagem dos componentes em uma protoboard e pode ser expandida para incluir outros sensores ou atuadores.
 
-# Componentes Usados
+## Componentes Usados
 
 - Arduino Uno – Microcontrolador utilizado para controlar o sistema.
 - Sensor PIR (Passive Infrared Sensor) – Responsável por detectar movimento ao captar mudanças na radiação infravermelha.
@@ -13,11 +13,11 @@ montagem dos componentes em uma protoboard e pode ser expandida para incluir out
 - Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
 - Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.
 
-# Montagem do Circuito
+## Montagem do Circuito
 
 ![Imagem do Circuito](at1-servo.png)
 
-# Explicação do Código
+## Explicação do Código
 
 #include <Servo.h>
 
@@ -81,7 +81,7 @@ void loop() {
   }
 }
 
-# Definição das Variáveis
+## Definição das Variáveis
 
 buzzer: Pino conectado ao buzzer para emitir som.
 sensorPIR: Pino conectado ao sensor PIR para detecção de movimento.
@@ -91,7 +91,7 @@ butaoAvancar: Pino conectado ao botão para avançar a posição do servo.
 butaoRecuar: Pino conectado ao botão para recuar a posição do servo.
 posicao: Variável que guarda a posição atual do servo motor.
 
-# Funções Principais
+## Funções Principais
 setup(): Configura os pinos do buzzer, sensor PIR, servo motor e botões como saída e entrada, respectivamente.
 loop(): Verifica o estado do sensor PIR e, caso detecte movimento, aciona o buzzer. Quando não há movimento, o buzzer é desligado.
 Além disso, verifica os botões para avançar ou recuar a posição do servo motor.
