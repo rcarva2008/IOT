@@ -50,6 +50,6 @@ doo, re, mi, fa: Frequências correspondentes às notas musicais.
 
 ## Funções Principais
 
-setup(): Configura o pino do buzzer como uma saída, permitindo que ele emita sons.
-loop(): Toca cada nota musical em sequência, aguardando um intervalo de tempo específico entre cada nota e, ao final, desliga o som por um tempo antes de reiniciar a sequência.
+- setup(): Configura o pino do buzzer como uma saída, permitindo que ele emita sons.
+- loop(): Toca cada nota musical em sequência, aguardando um intervalo de tempo específico entre cada nota e, ao final, desliga o som por um tempo antes de reiniciar a sequência.
 Esse projeto é uma introdução divertida ao controle de som com o Arduino, e pode ser expandido para tocar melodias mais complexas ou interagir com outros componentes, como LEDs.
