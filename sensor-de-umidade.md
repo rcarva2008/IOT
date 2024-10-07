@@ -52,10 +52,10 @@ void loop() {
 
 ## Definição das Variáveis
 
-sensorPin: Define o pino analógico A0 do Arduino como o ponto de leitura para o sensor de umidade.
-sensorValue: Armazena o valor lido do sensor de umidade, que será exibido no monitor serial.
+- sensorPin: Define o pino analógico A0 do Arduino como o ponto de leitura para o sensor de umidade.
+- sensorValue: Armazena o valor lido do sensor de umidade, que será exibido no monitor serial.
 
 ## Funções Principais
 
-setup(): Configura a taxa de comunicação serial para 9600 bps e inicializa a leitura dos dados do sensor.
-loop(): Lê os valores de umidade a cada 1 segundo e exibe no monitor serial. Esses valores podem ser usados para tomar decisões automatizadas, como ligar um sistema de irrigação.
+- setup(): Configura a taxa de comunicação serial para 9600 bps e inicializa a leitura dos dados do sensor.
+- bcloop(): Lê os valores de umidade a cada 1 segundo e exibe no monitor serial. Esses valores podem ser usados para tomar decisões automatizadas, como ligar um sistema de irrigação.
