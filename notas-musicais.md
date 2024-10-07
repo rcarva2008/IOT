@@ -6,11 +6,11 @@ funções para gerar os sons no buzzer.
 
 ## Componentes Usados
 
-1 Arduino Uno
+- 1 Arduino Uno
 
-1 Buzzer Piezoelétrico
+- 1 Buzzer Piezoelétrico
 
-Jumpers Macho-Macho
+- 3 Jumpers Macho-Macho
 
 ## Montagem do Circuito
 
