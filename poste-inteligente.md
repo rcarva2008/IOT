@@ -4,17 +4,17 @@ Este projeto foi desenvolvido dentro do Tinkercad, na disciplina de Internet das
 
 ## componentes usados
 
-Arduino Uno.
+- Arduino Uno.
 
-LED: Um diodo emissor de luz que será controlado pela leitura do sensor de luminosidade.
+- LED: Um diodo emissor de luz que será controlado pela leitura do sensor de luminosidade.
 
-Resistor para o LED: Geralmente um resistor de 220Ω ou 330Ω é usado em série com o LED para limitar a corrente e evitar que o LED queime.
+- Resistor para o LED: Geralmente um resistor de 220Ω ou 330Ω é usado em série com o LED para limitar a corrente e evitar que o LED queime.
 
-Sensor de Luminosidade (por exemplo, LDR - Resistor Dependente de Luz): Um componente que varia sua resistência com a quantidade de luz que incide sobre ele.
+- Sensor de Luminosidade (por exemplo, LDR - Resistor Dependente de Luz): Um componente que varia sua resistência com a quantidade de luz que incide sobre ele.
 
-Resistor para o LDR: Um resistor (geralmente entre 10kΩ e 100kΩ) é usado em um divisor de tensão com o LDR para permitir a leitura do nível de luminosidade no pino analógico.
+- Resistor para o LDR: Um resistor (geralmente entre 10kΩ e 100kΩ) é usado em um divisor de tensão com o LDR para permitir a leitura do nível de luminosidade no pino analógico.
 
-Fios de Conexão: Fios jumpers para fazer as ligações entre os componentes e a placa Arduino.
+- Fios de Conexão: Fios jumpers para fazer as ligações entre os componentes e a placa Arduino.
 
 ## Montagem do circuito
 
