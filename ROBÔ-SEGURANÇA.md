@@ -6,12 +6,12 @@ A implementação inclui a montagem dos componentes em uma protoboard e pode ser
 
 ## Componentes Usados
 
-Arduino Uno – Microcontrolador utilizado para controlar o sistema.
-Sensor Ultrassônico (HC-SR04) – Utilizado para medir a distância até um objeto.
-LED – Acende quando um objeto é detectado dentro do limite de distância.
-Servo Motor – Movimenta-se quando um objeto é detectado dentro do limite de distância.
-Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
-Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.
+- Arduino Uno – Microcontrolador utilizado para controlar o sistema.
+- Sensor Ultrassônico (HC-SR04) – Utilizado para medir a distância até um objeto.
+- LED – Acende quando um objeto é detectado dentro do limite de distância.
+- Servo Motor – Movimenta-se quando um objeto é detectado dentro do limite de distância.
+- Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
+- Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.
 
 ## Montagem do Circuito
 
