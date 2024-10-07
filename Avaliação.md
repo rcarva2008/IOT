@@ -9,13 +9,13 @@ a presença de pedestres.
 ## Componentes Usados
 
 
-1 Arduino Uno
-1 Placa de Ensaio
-6 LEDs (Vermelho, Amarelo e Verde para dois semáforos de veículos)
-4 LEDs (Vermelho e Verde para dois semáforos de pedestres)
-1 Sensor de Distância (Ultrassônico)
-14 Jumpers Macho-Macho
-3 Jumpers Macho-Fêmea
+- 1 Arduino Uno
+- 1 Placa de Ensaio
+- 6 LEDs (Vermelho, Amarelo e Verde para dois semáforos de veículos)
+- 4 LEDs (Vermelho e Verde para dois semáforos de pedestres)
+- 1 Sensor de Distância (Ultrassônico)
+- 14 Jumpers Macho-Macho
+- 3 Jumpers Macho-Fêmea
 
 
 ## Montagem do Circuito
