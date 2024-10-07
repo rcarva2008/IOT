@@ -3,11 +3,11 @@ Este projeto utiliza [componente principal] conectado ao [dispositivo controlado
 
 ## Componentes Usados
 
-1 Arduino Uno – Microcontrolador utilizado para controlar o sistema.
-1 Sensor PIR (Passive Infrared Sensor) – Responsável por detectar movimento ao captar mudanças na radiação infravermelha.
-1 Buzzer Piezoelétrico – Dispositivo que emite som quando ativado, utilizado para sinalização sonora quando o sensor detecta movimento.
-1 Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
-6 Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.4
+- 1 Arduino Uno – Microcontrolador utilizado para controlar o sistema.
+- 1 Sensor PIR (Passive Infrared Sensor) – Responsável por detectar movimento ao captar mudanças na radiação infravermelha.
+- 1 Buzzer Piezoelétrico – Dispositivo que emite som quando ativado, utilizado para sinalização sonora quando o sensor detecta movimento.
+- 1 Protoboard – Utilizada para montar o circuito de forma temporária e sem a necessidade de solda.
+- 6 Jumpers Macho-Macho – Cabos de conexão para ligar os componentes ao Arduino e entre si.4
 
 ## Montagem do Circuito
 
