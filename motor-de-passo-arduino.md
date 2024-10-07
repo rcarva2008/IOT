@@ -7,10 +7,10 @@ Ele pode ser utilizado em diversas aplicações que envolvem movimento preciso e
 
 ## Componentes Usados
 
-1 Arduino Uno
-1 Driver ULN2003
-1 Motor de Passo 28BYJ-48
-5 Jumpers Macho-Macho
+- 1 Arduino Uno
+- 1 Driver ULN2003
+- 1 Motor de Passo 28BYJ-48
+- 5 Jumpers Macho-Macho
 
 ## Montagem do Circuito
 
