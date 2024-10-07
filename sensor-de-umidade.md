@@ -6,10 +6,10 @@ Este projeto é ideal para aplicações agrícolas, jardinagem automatizada e si
 
 ## Componentes Usados
 
-1 Arduino Uno
-1 Sensor de Umidade do Solo
-2 Jumpers Macho-Fêmea (conexões de alimentação e leitura)
-1 Cabo USB para programação e alimentação do Arduino
+- 1 Arduino Uno
+- 1 Sensor de Umidade do Solo
+- 2 Jumpers Macho-Fêmea (conexões de alimentação e leitura)
+- 1 Cabo USB para programação e alimentação do Arduino
 
 ## Montagem do Circuito
 
