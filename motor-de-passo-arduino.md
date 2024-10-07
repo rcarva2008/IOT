@@ -17,6 +17,8 @@ Jumpers Macho-Macho: Cabos de conexão para ligar os componentes ao Arduino e en
 
 ![Imagem do Circuito](motor-de-passo-arduino.png)
 
+## Explicação do Código
+
 // incluir a biblioteca
 #include <AccelStepper.h>
 // conversão de gramas para steps
