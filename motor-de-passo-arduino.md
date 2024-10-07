@@ -7,11 +7,10 @@ Ele pode ser utilizado em diversas aplicações que envolvem movimento preciso e
 
 ## Componentes Usados
 
-1 Arduino Uno: Microcontrolador responsável pelo controle do sistema
-1 Driver ULN2003: Driver utilizado para controlar o motor de passo
-1 Motor de Passo 28BYJ-48: Motor que realiza o movimento rotacional em passos controlados
-1 Protoboard: Utilizada para montar o circuito de forma temporária e sem a necessidade de solda
-5 Jumpers Macho-Macho: Cabos de conexão para ligar os componentes ao Arduino e entre si
+1 Arduino Uno
+1 Driver ULN2003
+1 Motor de Passo 28BYJ-48
+5 Jumpers Macho-Macho
 
 ## Montagem do Circuito
 
